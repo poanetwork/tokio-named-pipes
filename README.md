@@ -1,5 +1,10 @@
-# tokio-named-pipes
-[![Build status](https://ci.appveyor.com/api/projects/status/motwon3ro35xwb2x?svg=true)](https://ci.appveyor.com/project/NikolayVolf/tokio-named-pipes)
+# Repository Moved
+
+This repository has moved and is now actively maintained at: https://github.com/NikVolf/tokio-named-pipes
+
+## tokio-named-pipes
+
+[![Build status](https://ci.appveyor.com/api/projects/status/x0pu2yxu8ygguqi6?svg=true)](https://ci.appveyor.com/project/alexcrichton/tokio-named-pipes)
 
 [Documentation](http://alexcrichton.com/tokio-named-pipes)
 
@@ -20,7 +25,7 @@ Next, add this to your crate:
 extern crate tokio_named_pipes;
 ```
 
-# License
+## License
 
 `tokio-named-pipes` is primarily distributed under the terms of both the MIT
 license and the Apache License (Version 2.0), with portions covered by various
